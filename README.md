@@ -53,7 +53,7 @@ In the js folder, you will find:
 
 1. Clone this repository
 
-git clone [https://github.com/amilakanishka/ECommerce-Product-Recommender-Using-Machine-Learning](https://github.com/SANKHA1/E-commerce-Product-Recommender/tree/main)
+git clone https://github.com/SANKHA1/E-commerce-Product-Recommender
 
 2. Check the requirements.txt
 
