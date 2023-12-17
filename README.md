@@ -21,12 +21,8 @@ Built and deployed working machine learning website with a personalised product 
 3. Recommend top 4 most popular items.
 
 ## Web App
-We have deployed onto Heroku, please follow the link to the [product recommender web app](https://scikits-liquor.herokuapp.com/).
+I have deployed onto Heroku, please follow the link to the [product recommender web app](https://scikits-liquor.herokuapp.com/).
 
-**Team members:**
-- Amil Walgamage
-- Jamie Tan
-- Tas Tudor
 
 ![App](static/img/scikit_web.gif)
 
@@ -57,7 +53,7 @@ In the js folder, you will find:
 
 1. Clone this repository
 
-git clone https://github.com/amilakanishka/ECommerce-Product-Recommender-Using-Machine-Learning
+git clone [https://github.com/amilakanishka/ECommerce-Product-Recommender-Using-Machine-Learning](https://github.com/SANKHA1/E-commerce-Product-Recommender/tree/main)
 
 2. Check the requirements.txt
 
